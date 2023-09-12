@@ -1,0 +1,92 @@
+.menu > a {
+    text-decoration: none;
+    margin: 30px;
+    color: rgb(255, 255, 255);
+}
+.menu {
+    background-color: rgb(88, 141, 161);
+    padding: 20px;
+    text-align: center
+}
+
+.menu >a:hover {
+    color: rgb(97, 159, 182);
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(88, 141, 161);
+}
+
+.center {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.redes {
+    text-align: center;
+    padding-top: 100px;
+    margin-block-end: 5px;
+}
+
+.UserLogado > h1{
+    color: rgb(88, 141, 161);
+}
+
+h2 {
+    color: rgb(116, 116, 116);
+}
+
+h3 {
+    color: rgb(92, 92, 92);
+}
+
+.btn > button{
+  background-color: rgb(88, 141, 161);
+  border: none;   
+ border-radius: 10%;
+ width: 100px;
+ height: 30px;
+}
+
+b {
+    font-size: x-large;
+}
+
+.padding {
+    padding: 20px;
+}
+
+/* Estilo simples para melhorar a aparência */
+
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    padding: 8px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#lista-perguntas {
+    margin-top: 20px;
+    text-align: left;
+}
